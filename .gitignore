@@ -28,4 +28,4 @@ node_modules
 
 # TypeScript setting / ignore build artifacts
 *.js.map
-app/*.js
+*/app/*.js
